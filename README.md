@@ -17,7 +17,7 @@
 
 ```yaml
 name: Jayesh Mepani
-located_in: Vadodara, Gujarat, India
+located_in: Kutch, Gujarat, India 
 current_focus: Full-Stack Development & AI/ML
 education: Computer Science & Engineering
 interests:
