@@ -9,7 +9,7 @@
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayeshmepani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayesh-patel-1111111j) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jayesh) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayeshmepani777@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?logo=google-chrome&logoColor=white)](https://jayeshpatel-portfolio.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayumepani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayesh-patel-1111111j) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayeshmepani777@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?logo=google-chrome&logoColor=white)](https://jayeshpatel-portfolio.netlify.app/)
 
 ---
 
