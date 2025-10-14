@@ -126,16 +126,6 @@ motto: "Forever curious. Forever learning. Forever creating."
 
 ---
 
-## 🎓 Certifications
-
-<div align="center">
-
-[![View Certificates](https://img.shields.io/badge/📜_View_All_Certificates-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1L1zCEEWwPwZR9s1vSDAtiGP-Eao2AlCV)
-
-</div>
-
----
-
 ## 💭 Philosophy & Interests
 
 <div align="center">
