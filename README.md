@@ -137,16 +137,16 @@ motto: "Forever curious. Forever learning. Forever creating."
 <table align="center">
 <tr>
 <td align="center" width="25%">
-📚<br><strong>Ancient Wisdom</strong><br>Vedas, Upanishads, Puranas
+📚<br><strong>Ancient Wisdom</strong>
 </td>
 <td align="center" width="25%">
-🔤<br><strong>Languages</strong><br>Sanskrit, Linguistics
+🔤<br><strong>Languages</strong><br>
 </td>
 <td align="center" width="25%">
-🌍<br><strong>Sciences</strong><br>Geography, Astronomy
+🌍<br><strong>Sciences</strong>
 </td>
 <td align="center" width="25%">
-🧘<br><strong>Philosophy</strong><br>Spirituality & Science
+🧘<br><strong>Philosophy</strong>
 </td>
 </tr>
 </table>
