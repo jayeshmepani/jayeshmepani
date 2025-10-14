@@ -185,7 +185,8 @@ I believe in the **confluence of ancient wisdom and modern technology**, explori
 [![](https://visitcount.itsvg.in/api?id=jayeshmepani&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jayeshmepani)
+
+<a href="https://www.buymeacoffee.com/JayeshMepani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### ⭐ *"Forever curious. Forever learning. Forever creating."* ⭐
 
