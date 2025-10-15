@@ -34,12 +34,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push the generated files to main branch
-      - name: Push github-contribution-grid-snake.svg to main branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: main
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Commit and push the generated files to main branch
+      - name: Commit and push snake files
+        run: |
+          cp dist/*.svg .
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-contribution-grid-snake*.svg
+          git diff --staged --quiet || git commit -m "Update snake animation"
+          git push
