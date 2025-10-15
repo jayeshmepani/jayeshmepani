@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Dynamic Header with Wave Animation -->
@@ -85,7 +84,7 @@
 
 <br>
 
-<!-- What I Build Section -->
+<!-- Core Competencies Section -->
 <div align="center">
 
 ## 🎯 Core Competencies
@@ -253,103 +252,68 @@
 
 <br>
 
-<!-- GitHub Analytics Section -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<!-- Stats Dashboard -->
-<table width="100%">
-<tr>
-<td width="65%">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayeshmepani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" alt="Jayesh's GitHub Stats" />
-</td>
-<td width="35%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshmepani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<!-- Streak & Activity Graph -->
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jayeshmepani&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshmepani&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayeshmepani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-</p>
-
-<!-- Pinned Repositories -->
-## 📌 Pinned Repositories
-
-<a href="https://github.com/jayeshmepani/HinduScriptures">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmepani&repo=HinduScriptures&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/jayeshmepani/Crop-Recommendations-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmepani&repo=Crop-Recommendations-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/jayeshmepani/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmepani&repo=Weather-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/jayeshmepani/laravel-gemini-translator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmepani&repo=laravel-gemini-translator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
-</a>
-
-<!-- Top Contributors -->
-## 🤝 Top Contributed Repositories
-
-<img src="https://github-contributor-stats.vercel.app/api?username=jayeshmepani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" />
-
-</div>
-
-<br>
-
 <!-- Featured Projects Section -->
 <div align="center">
 
 ## 🚀 Featured Projects
 
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v3.7: The Enterprise Edition - Full Module Support & AI-First Engine](https://github.com/jayeshmepani/laravel-gemini-translator/releases/tag/3.7) in [jayeshmepani/laravel-gemini-translator](https://github.com/jayeshmepani/laravel-gemini-translator)
-<!--END_SECTION:activity-->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-  <h3>🌸 Hindu Scriptures AI</h3>
-  <p>AI-powered Sanatan text search & translation using Gemini AI.</p>
-  <strong>Tech:</strong> <code>Flask</code>, <code>Gemini AI</code>, <code>MySQL</code><br>
-  <a href="https://hinduscriptures.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://github.com/jayeshmepani/HinduScriptures" target="_blank"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</td>
-<td width="50%" valign="top">
-  <h3>🌾 Crop Recommendations AI</h3>
-  <p>ML-based prediction of ideal crops based on soil and climate data.</p>
-  <strong>Tech:</strong> <code>Python</code>, <code>Flask</code>, <code>Scikit-learn</code><br>
-  <a href="https://croprecommendations.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://github.com/jayeshmepani/Crop-Recommendations-App" target="_blank"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3>🌦️ Live Weather App</h3>
-  <p>Real-time weather forecasting dashboard with charts and geolocation.</p>
-  <strong>Tech:</strong> <code>React</code>, <code>Weather API</code>, <code>Chart.js</code><br>
-  <a href="https://liveweatherforecast.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://github.com/jayeshmepani/Weather-App" target="_blank"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</td>
-<td width="50%" valign="top">
-  <h3>🖤 Precision Grayscale Converter</h3>
-  <p>Advanced grayscale conversion with custom algorithms.</p>
-  <strong>Tech:</strong> <code>Python</code>, <code>Flask</code>, <code>OpenCV</code><br>
-  <a href="https://precisiongrayscaleconverter-web.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://github.com/jayeshmepani/PrecisionGrayscaleConverter-Web" target="_blank"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌸 Hindu Scriptures AI</h3>
+      <p>AI-powered Sanatan text search & translation using Gemini AI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      </p>
+      <p>
+        <a href="https://hinduscriptures.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+        <a href="https://github.com/jayeshmepani/HinduScriptures" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌾 Crop Recommendations AI</h3>
+      <p>ML-based prediction of ideal crops based on soil and climate data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+      </p>
+      <p>
+        <a href="https://croprecommendations.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+        <a href="https://github.com/jayeshmepani/Crop-Recommendations-App" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌦️ Live Weather App</h3>
+      <p>Real-time weather forecasting dashboard with charts and geolocation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+        <img src="https://img.shields.io/badge/API-1C75BC?style=for-the-badge&logo=api&logoColor=white" alt="API"/>
+      </p>
+      <p>
+        <a href="https://liveweatherforecast.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+        <a href="https://github.com/jayeshmepani/Weather-App" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖤 Precision Grayscale Converter</h3>
+      <p>Advanced grayscale conversion with custom algorithms.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+      </p>
+      <p>
+        <a href="https://precisiongrayscaleconverter-web.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+        <a href="https://github.com/jayeshmepani/PrecisionGrayscaleConverter-Web" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <details>
@@ -365,6 +329,39 @@
 | **Grayscale Desktop App** | Offline precision converter for desktop | Python, PyQt | [Repo](https://github.com/jayeshmepani/PrecisionGrayscaleConverter) |
 
 </details>
+</div>
+
+<br>
+
+<!-- GitHub Analytics Section -->
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<!-- Stats Dashboard -->
+<p align="center">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=jayeshmepani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" alt="Jayesh's GitHub Stats" />
+  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshmepani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</p>
+
+<!-- Streak & Activity Graph -->
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jayeshmepani&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshmepani&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jayeshmepani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+</p>
+
+<!-- Top Contributors -->
+## 🤝 Top Contributed Repositories
+
+<img src="https://github-contributor-stats.vercel.app/api?username=jayeshmepani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" />
+
 </div>
 
 <br>
@@ -414,62 +411,29 @@
 
 <br>
 
-<!-- Currently Learning -->
+<!-- Recent Activity -->
 <div align="center">
 
-## 📚 Currently Learning
-
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+## ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!-- Your GitHub activity will be populated here by the workflow -->
+<!--END_SECTION:activity-->
 
 </div>
 
-- 🧠 Advanced Deep Learning & Neural Networks
-- 🎯 Microservices Architecture & Kubernetes
-- 🔐 Advanced Cybersecurity & Ethical Hacking
-- 🌐 Web3 & Blockchain Technologies
-- 📱 Cross-Platform Development with Flutter
-- 🤖 Large Language Models & Prompt Engineering
-
-<br>
-
-<!-- Recent Activity & Coding Stats -->
+<!-- Coding Stats -->
 <div align="center">
-  
-## ⚡ Recent Activity & Coding Stats
 
-<!-- GitHub Activity -->
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!-- WakaTime Stats -->
+## ⏱️ WakaTime Coding Stats
 <!--START_SECTION:waka-->
+<!-- Your WakaTime stats will be populated here by the workflow -->
 <!--END_SECTION:waka-->
 
 </div>
 
 <br>
 
-<!-- Detailed Metrics -->
-<div align="center">
 
-## 📉 Detailed Metrics
-
-![Metrics](https://metrics.lecoq.io/jayeshmepani?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&lines=1&habits=1&code=1&activity=1&repositories=1&discussions=1&followup=1&isocalendar=1&languages=1&stargazers=1&topics=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.trim=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics.mode=starred&topics.sort=stars&topics.limit=15&notable.from=organization&notable.repositories=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&followup.sections=repositories&config.timezone=Asia%2FKolkata)
-
-</div>
-
-<br>
-
-<!-- Holopin Badges & Snake Animation -->
-<div align="center">
-  
-## 🎖️ Badges & Contributions
-
-<p align="center">
-  <a href="https://holopin.io/@jayeshmepani" target="_blank">
-    <img src="https://holopin.me/jayeshmepani" alt="Holopin Badges">
-  </a>
-</p>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayeshmepani/jayeshmepani/output/github-contribution-grid-snake-dark.svg">
@@ -488,7 +452,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.gif" width="100">
 
-If you find my work valuable and want to support my open-source contributions, consider buying me a coffee! ☕
+<p>If you find my work valuable and want to support my open-source contributions, consider buying me a coffee! ☕</p>
 
 <a href="https://www.buymeacoffee.com/JayeshMepani" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
@@ -507,9 +471,4 @@ If you find my work valuable and want to support my open-source contributions, c
 
 <sub>Thanks for visiting! Feel free to explore my repositories and connect with me. 🚀</sub>
 
-<p>
-  <img src="https://visitcount.itsvg.in/api?id=jayeshmepani&label=Profile%20Views&color=00C7B7&icon=5&pretty=true" />
-</p>
-
 </div>
-
