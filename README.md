@@ -340,7 +340,7 @@
     <a href="https://github.com/jayeshmepani/laravel-gemini-translator" target="_blank">
       <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="https://packagist.org/packages/jayeshmepani/laravel-gemini-translator" target="_blank">
+    <a href="https://packagist.org/packages/jayesh/laravel-gemini-translator" target="_blank">
       <img src="https://img.shields.io/badge/📦_Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white"/>
     </a>
   </p>
