@@ -426,7 +426,66 @@
 
 ## ⏱️ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-<!-- Your WakaTime stats will be populated here by the workflow -->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 174 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+🌆 Daytime                57 commits          ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+🌃 Evening                96 commits          ███████████░░░░░░░░░░░░░░   42.67 % 
+🌙 Night                  40 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Tuesday                  55 commits          ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Wednesday                47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Saturday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Sunday                   45 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in CSS** 
+
+```text
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/jayeshmepani/jayeshmepani/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/10/2025 09:36:17 UTC
 <!--END_SECTION:waka-->
 
 </div>
