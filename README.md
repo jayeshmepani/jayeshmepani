@@ -259,7 +259,9 @@
 
 ## 🚀 Projects Portfolio
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+</div>
 
 ### 🧠 AI / Data-Driven Projects
 
@@ -503,19 +505,19 @@
 <td width="50%" valign="top">
   <h3>📱 Hindu Scriptures Mobile App</h3>
   <p><em>Android application for spiritual text exploration</em></p>
-  <p>🎯 <strong>Purpose:</strong> Mobile-optimized version of the Hindu Scriptures platform with offline capabilities</p>
+  <p>🎯 <strong>Purpose:</strong> Native Android app with WebView integration, built in Android Studio with Java</p>
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio"/>
     <img src="https://img.shields.io/badge/WebView-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="WebView"/>
     <img src="https://img.shields.io/badge/Mobile_App-34A853?style=flat-square&logo=android&logoColor=white" alt="Mobile"/>
   </p>
   <p>
-    <a href="mailto:jayeshmepani777@gmail.com?subject=Hindu%20Scriptures%20App%20Request" target="_blank">
-      <img src="https://img.shields.io/badge/📧_Request_APK-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a href="https://github.com/jayeshmepani/HinduScriptures/releases" target="_blank">
+      <img src="https://img.shields.io/badge/⬇️_Download_APK-EA4335?style=for-the-badge&logo=android&logoColor=white"/>
     </a>
-    <a href="https://github.com/jayeshmepani/HinduScriptures" target="_blank">
-      <img src="https://img.shields.io/badge/📂_Web_Version-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <a href="https://github.com/jayeshmepani/hindu-scripture-apk" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Android_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </p>
 </td>
