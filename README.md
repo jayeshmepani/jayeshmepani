@@ -416,7 +416,7 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-<!-- Your GitHub activity will be populated here by the workflow -->
+1. 🚀 Published release [v3.7: The Enterprise Edition - Full Module Support & AI-First Engine](https://github.com/jayeshmepani/laravel-gemini-translator/releases/tag/3.7) in [jayeshmepani/laravel-gemini-translator](https://github.com/jayeshmepani/laravel-gemini-translator)
 <!--END_SECTION:activity-->
 
 </div>
