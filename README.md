@@ -483,20 +483,6 @@ Advanced grayscale conversion with custom algorithms
 <!-- Skills Progress Bars -->
 <div align="center">
 
-## 📈 Skill Proficiency
-
-</div>
-
-```text
-Full-Stack Development  ████████████████████░   95%
-AI/ML & Data Science   ███████████████████░░   90%
-Mobile Development     ██████████████████░░░   85%
-DevOps & Cloud         ████████████████░░░░░   80%
-UI/UX Design          ███████████████████░░   88%
-Database Management    ████████████████████░   92%
-```
-
-<br>
 
 <!-- Currently Learning -->
 <div align="center">
