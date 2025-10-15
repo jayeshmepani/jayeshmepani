@@ -259,62 +259,287 @@
 
 ## 🚀 Projects Portfolio
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
 ### 🧠 AI / Data-Driven Projects
 
-**🌾 Crop Recommendations App** — Python (Flask), HTML, CSS, JavaScript, Google Gemini AI  
-Recommends crops based on weather, soil, and environmental factors.  
-[🔗 GitHub](https://github.com/jayeshmepani/Crop-Recommendations-App) | [🌐 Live Demo](https://croprecommendations.onrender.com/)
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3>🌾 Crop Recommendations AI</h3>
+  <p><em>ML-powered agricultural intelligence system</em></p>
+  <p>🎯 <strong>Purpose:</strong> Recommends optimal crops based on weather, soil, and environmental factors using Google Gemini AI</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini AI"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </p>
+  <p>
+    <a href="https://croprecommendations.onrender.com/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://github.com/jayeshmepani/Crop-Recommendations-App" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3>🥗 Nutrient Intelligence System</h3>
+  <p><em>Personalized nutrition recommendation engine</em></p>
+  <p>🎯 <strong>Purpose:</strong> AI-driven personalized nutrient & calorie intake recommendations for optimal health</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini AI"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  </p>
+  <p>
+    <a href="https://nutrientrecommendations.onrender.com/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://github.com/jayeshmepani/Nutrient-Recommendations-App" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3>🌦️ Advanced Weather Analytics</h3>
+  <p><em>Real-time meteorological intelligence platform</em></p>
+  <p>🎯 <strong>Purpose:</strong> Interactive weather forecasting with data visualization using multiple APIs</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+    <img src="https://img.shields.io/badge/OpenWeather-EB6E4B?style=flat-square&logo=openweathermap&logoColor=white" alt="OpenWeather"/>
+  </p>
+  <p>
+    <a href="https://liveweatherforecast.onrender.com/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://github.com/jayeshmepani/Weather-App" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3>🌐 Laravel AI Translation Suite</h3>
+  <p><em>Enterprise-grade translation automation</em></p>
+  <p>🎯 <strong>Purpose:</strong> AI-powered translation extraction tool for Laravel applications with Google Gemini integration</p>
+  <p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini AI"/>
+    <img src="https://img.shields.io/badge/Spatie-197B30?style=flat-square&logo=laravel&logoColor=white" alt="Spatie"/>
+  </p>
+  <p>
+    <a href="https://github.com/jayeshmepani/laravel-gemini-translator" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://packagist.org/packages/jayeshmepani/laravel-gemini-translator" target="_blank">
+      <img src="https://img.shields.io/badge/📦_Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white"/>
+    </a>
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3>🖤 Precision Image Processing Suite</h3>
+  <p><em>Advanced grayscale conversion algorithms</em></p>
+  <p>🎯 <strong>Purpose:</strong> Multi-algorithm image processing with precision grayscale conversion modes</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  </p>
+  <p>
+    <a href="https://precisiongrayscaleconverter-web.onrender.com/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Web_Version-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://github.com/jayeshmepani/PrecisionGrayscaleConverter-Web" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Web_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3>💻 Desktop Image Processor</h3>
+  <p><em>High-performance batch processing application</em></p>
+  <p>🎯 <strong>Purpose:</strong> Desktop GUI for batch image processing with advanced grayscale algorithms</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/CustomTkinter-1f538d?style=flat-square&logo=python&logoColor=white" alt="CustomTkinter"/>
+    <img src="https://img.shields.io/badge/PIL-8CC84B?style=flat-square&logo=python&logoColor=white" alt="PIL"/>
+    <img src="https://img.shields.io/badge/Desktop_App-4285F4?style=flat-square&logo=windows&logoColor=white" alt="Desktop"/>
+  </p>
+  <p>
+    <a href="https://github.com/jayeshmepani/PrecisionGrayscaleConverter" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Desktop_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://github.com/jayeshmepani/PrecisionGrayscaleConverter/releases" target="_blank">
+      <img src="https://img.shields.io/badge/⬇️_Download-4CAF50?style=for-the-badge&logo=download&logoColor=white"/>
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 
-**🥗 Nutrient Recommendations App** — Python (Flask), HTML, CSS, JavaScript, Google Gemini AI  
-Provides personalized nutrient & calorie intake recommendations.  
-[🔗 GitHub](https://github.com/jayeshmepani/Nutrient-Recommendations-App) | [🌐 Live Demo](https://nutrientrecommendations.onrender.com/)
-
-**🌦️ Weather App** — Python, Flask, JavaScript, Plotly, OpenWeatherMap & Tomorrow.io API  
-Displays real-time weather data with interactive forecasts.  
-[🔗 GitHub](https://github.com/jayeshmepani/Weather-App) | [🌐 Live Demo](https://liveweatherforecast.onrender.com/)
-
-**🌐 Laravel Gemini AI Translation Extractor** — PHP (Laravel), Google Gemini AI, spatie/fork  
-AI-powered translation extraction tool for Laravel language files.  
-[🔗 GitHub](https://github.com/jayeshmepani/laravel-gemini-translator)
-
-**🖤 Enhanced Precision Grayscale Converter (Web)** — Python (FastAPI), HTML, CSS, Tailwind, JS  
-Converts images with multiple grayscale modes and export options.  
-[🔗 GitHub](https://github.com/jayeshmepani/PrecisionGrayscaleConverter-Web) | [🌐 Live Demo](https://precisiongrayscaleconverter-web.onrender.com/)
-
-**💻 Enhanced Precision Grayscale Converter (Desktop)** — Python (CustomTkinter)  
-Desktop GUI version for grayscale conversion with batch processing.  
-[🔗 GitHub](https://github.com/jayeshmepani/PrecisionGrayscaleConverter)
+---
 
 ### 🌐 Web Development Projects
 
-**👨‍💻 Portfolio** — CSS, JavaScript, Tailwind, Vite, React  
-Personal portfolio showcasing your work.  
-[🔗 GitHub](https://github.com/jayeshmepani/Portfolio) | [🌐 Live Demo](https://jayeshpatel-portfolio.netlify.app/)
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3>👨‍💻 Personal Portfolio Showcase</h3>
+  <p><em>Modern responsive portfolio with Vite optimization</em></p>
+  <p>🎯 <strong>Features:</strong> Interactive design, project showcase, responsive layout, performance optimized</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </p>
+  <p>
+    <a href="https://jayeshpatel-portfolio.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+    </a>
+    <a href="https://github.com/jayeshmepani/Portfolio" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3>🌸 Hindu Scriptures Knowledge Base</h3>
+  <p><em>AI-powered spiritual text search & translation platform</em></p>
+  <p>🎯 <strong>Features:</strong> Scripture search, AI translation, multilingual support, responsive design</p>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+    <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini AI"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </p>
+  <p>
+    <a href="https://hinduscriptures.onrender.com/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Explore_Scriptures-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://github.com/jayeshmepani/HinduScriptures" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3>⭐ ReviewSync Analytics Platform</h3>
+  <p><em>Enterprise review aggregation & analytics system</em></p>
+  <p>🎯 <strong>Features:</strong> Review aggregation, sentiment analysis, Google APIs integration, analytics dashboard</p>
+  <p>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google APIs"/>
+  </p>
+  <p>
+    <a href="https://github.com/jayeshmepani/Reviewsync" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="mailto:jayeshmepani777@gmail.com?subject=ReviewSync%20Demo%20Request" target="_blank">
+      <img src="https://img.shields.io/badge/📧_Request_Demo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3>📊 Enterprise CRM Dashboard</h3>
+  <p><em>Modern analytics dashboard with real-time KPIs</em></p>
+  <p>🎯 <strong>Features:</strong> Real-time analytics, interactive charts, dark/light themes, responsive design</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  </p>
+  <p>
+    <a href="https://crm-stat.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Dashboard-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://github.com/jayeshmepani/CRM-Dashboard" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+  <h3>✅ Advanced Form Validation System</h3>
+  <p><em>CSS-only realtime validation with JavaScript enhancement options</em></p>
+  <p>🎯 <strong>Innovation:</strong> Pure CSS validation system demonstrating advanced CSS capabilities with optional JavaScript enhancements</p>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Responsive-38B2AC?style=flat-square&logo=css3&logoColor=white" alt="Responsive"/>
+  </p>
+  <p>
+    <a href="https://validation-w-o-js.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="https://github.com/jayeshmepani/validation-w-o-js" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 
-**🌸 Hindu Scriptures (Web)** — HTML, CSS, JavaScript, Node.js, Express.js, Google Gemini AI  
-Searchable database of Hindu scriptures with AI-powered translation.  
-[🔗 GitHub](https://github.com/jayeshmepani/HinduScriptures) | [🌐 Live Demo](https://hinduscriptures.onrender.com/)
+---
 
-**⭐ ReviewSync** — HTML, CSS, JavaScript, Tailwind, Bootstrap, Laravel, MySQL, Google APIs  
-Review aggregation and analytics platform.  
-[🔗 GitHub](https://github.com/jayeshmepani/Reviewsync)
+### 📱 Mobile App Development
 
-**📊 CRM Dashboard** — React.js, Next.js, Tailwind, Node.js, Chart.js  
-Dashboard with KPIs, charts, and dark/light theme.  
-[🔗 GitHub](https://github.com/jayeshmepani/CRM-Dashboard) | [🌐 Live Demo](https://crm-stat.netlify.app/)
-
-**✅ Realtime Form Validation** — HTML5, CSS3, JavaScript (optional)  
-CSS-based realtime form validation system.  
-[🔗 GitHub](https://github.com/jayeshmepani/validation-w-o-js) | [🌐 Live Demo](https://validation-w-o-js.vercel.app/)
-
-### 📱 Mobile App Projects
-
-**📱 Hindu Scriptures (Android)** — Java (WebView)  
-Android version of the Hindu Scriptures web app.
-
-**🍳 Recipe App** — Flutter  
-Recipe browsing app with search, filter, and user-friendly UI.  
-[🔗 GitHub](https://github.com/jayeshmepani/Recipe-App)
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3>📱 Hindu Scriptures Mobile App</h3>
+  <p><em>Android application for spiritual text exploration</em></p>
+  <p>🎯 <strong>Purpose:</strong> Mobile-optimized version of the Hindu Scriptures platform with offline capabilities</p>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+    <img src="https://img.shields.io/badge/WebView-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="WebView"/>
+    <img src="https://img.shields.io/badge/Mobile_App-34A853?style=flat-square&logo=android&logoColor=white" alt="Mobile"/>
+  </p>
+  <p>
+    <a href="mailto:jayeshmepani777@gmail.com?subject=Hindu%20Scriptures%20App%20Request" target="_blank">
+      <img src="https://img.shields.io/badge/📧_Request_APK-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/jayeshmepani/HinduScriptures" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Web_Version-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3>🍳 Flutter Recipe Discovery App</h3>
+  <p><em>Cross-platform culinary exploration application</em></p>
+  <p>🎯 <strong>Features:</strong> Recipe browsing, advanced search & filtering, ingredient lists, user-friendly interface</p>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+    <img src="https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=material-design&logoColor=white" alt="Material Design"/>
+    <img src="https://img.shields.io/badge/Cross_Platform-FF6B6B?style=flat-square&logo=flutter&logoColor=white" alt="Cross Platform"/>
+  </p>
+  <p>
+    <a href="https://github.com/jayeshmepani/Recipe-App" target="_blank">
+      <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="mailto:jayeshmepani777@gmail.com?subject=Recipe%20App%20Demo%20Request" target="_blank">
+      <img src="https://img.shields.io/badge/📧_Request_Demo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 </div>
 
 <br>
