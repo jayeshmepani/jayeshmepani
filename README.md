@@ -257,80 +257,64 @@
 <!-- Featured Projects Section -->
 <div align="center">
 
-## 🚀 Featured Projects
+## 🚀 Projects Portfolio
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌸 Hindu Scriptures AI</h3>
-      <p>AI-powered Sanatan text search & translation using Gemini AI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      </p>
-      <p>
-        <a href="https://hinduscriptures.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-        <a href="https://github.com/jayeshmepani/HinduScriptures" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌾 Crop Recommendations AI</h3>
-      <p>ML-based prediction of ideal crops based on soil and climate data.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-      </p>
-      <p>
-        <a href="https://croprecommendations.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-        <a href="https://github.com/jayeshmepani/Crop-Recommendations-App" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌦️ Live Weather App</h3>
-      <p>Real-time weather forecasting dashboard with charts and geolocation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
-        <img src="https://img.shields.io/badge/API-1C75BC?style=for-the-badge&logo=api&logoColor=white" alt="API"/>
-      </p>
-      <p>
-        <a href="https://liveweatherforecast.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-        <a href="https://github.com/jayeshmepani/Weather-App" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖤 Precision Grayscale Converter</h3>
-      <p>Advanced grayscale conversion with custom algorithms.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-      </p>
-      <p>
-        <a href="https://precisiongrayscaleconverter-web.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-        <a href="https://github.com/jayeshmepani/PrecisionGrayscaleConverter-Web" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🧠 AI / Data-Driven Projects
 
-<details>
-<summary><b>🔍 View More Projects</b></summary>
-<br>
+**🌾 Crop Recommendations App** — Python (Flask), HTML, CSS, JavaScript, Google Gemini AI  
+Recommends crops based on weather, soil, and environmental factors.  
+[🔗 GitHub](https://github.com/jayeshmepani/Crop-Recommendations-App) | [🌐 Live Demo](https://croprecommendations.onrender.com/)
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Laravel Gemini Translator** | Laravel plugin for AI-powered content translation | PHP, Gemini AI | [Repo](https://github.com/jayeshmepani/laravel-gemini-translator) |
-| **CRM Dashboard** | Responsive analytics dashboard with charts & themes | HTML, CSS, JS | [Live](https://crm-stat.netlify.app/) • [Repo](https://github.com/jayeshmepani/CRM-Dashboard) |
-| **Nutrient Recommendations** | Diet & nutrient recommendation system | Flask, ML | [Live](https://nutrientrecommendations.onrender.com/) • [Repo](https://github.com/jayeshmepani/Nutrient-Recommendations-App) |
-| **ReviewSync** | Dynamic feedback system for services | PHP, MySQL | [Repo](https://github.com/jayeshmepani/Reviewsync) |
-| **Grayscale Desktop App** | Offline precision converter for desktop | Python, PyQt | [Repo](https://github.com/jayeshmepani/PrecisionGrayscaleConverter) |
+**🥗 Nutrient Recommendations App** — Python (Flask), HTML, CSS, JavaScript, Google Gemini AI  
+Provides personalized nutrient & calorie intake recommendations.  
+[🔗 GitHub](https://github.com/jayeshmepani/Nutrient-Recommendations-App) | [🌐 Live Demo](https://nutrientrecommendations.onrender.com/)
 
-</details>
+**🌦️ Weather App** — Python, Flask, JavaScript, Plotly, OpenWeatherMap & Tomorrow.io API  
+Displays real-time weather data with interactive forecasts.  
+[🔗 GitHub](https://github.com/jayeshmepani/Weather-App) | [🌐 Live Demo](https://liveweatherforecast.onrender.com/)
+
+**🌐 Laravel Gemini AI Translation Extractor** — PHP (Laravel), Google Gemini AI, spatie/fork  
+AI-powered translation extraction tool for Laravel language files.  
+[🔗 GitHub](https://github.com/jayeshmepani/laravel-gemini-translator)
+
+**🖤 Enhanced Precision Grayscale Converter (Web)** — Python (FastAPI), HTML, CSS, Tailwind, JS  
+Converts images with multiple grayscale modes and export options.  
+[🔗 GitHub](https://github.com/jayeshmepani/PrecisionGrayscaleConverter-Web) | [🌐 Live Demo](https://precisiongrayscaleconverter-web.onrender.com/)
+
+**💻 Enhanced Precision Grayscale Converter (Desktop)** — Python (CustomTkinter)  
+Desktop GUI version for grayscale conversion with batch processing.  
+[🔗 GitHub](https://github.com/jayeshmepani/PrecisionGrayscaleConverter)
+
+### 🌐 Web Development Projects
+
+**👨‍💻 Portfolio** — CSS, JavaScript, Tailwind, Vite, React  
+Personal portfolio showcasing your work.  
+[🔗 GitHub](https://github.com/jayeshmepani/Portfolio) | [🌐 Live Demo](https://jayeshpatel-portfolio.netlify.app/)
+
+**🌸 Hindu Scriptures (Web)** — HTML, CSS, JavaScript, Node.js, Express.js, Google Gemini AI  
+Searchable database of Hindu scriptures with AI-powered translation.  
+[🔗 GitHub](https://github.com/jayeshmepani/HinduScriptures) | [🌐 Live Demo](https://hinduscriptures.onrender.com/)
+
+**⭐ ReviewSync** — HTML, CSS, JavaScript, Tailwind, Bootstrap, Laravel, MySQL, Google APIs  
+Review aggregation and analytics platform.  
+[🔗 GitHub](https://github.com/jayeshmepani/Reviewsync)
+
+**📊 CRM Dashboard** — React.js, Next.js, Tailwind, Node.js, Chart.js  
+Dashboard with KPIs, charts, and dark/light theme.  
+[🔗 GitHub](https://github.com/jayeshmepani/CRM-Dashboard) | [🌐 Live Demo](https://crm-stat.netlify.app/)
+
+**✅ Realtime Form Validation** — HTML5, CSS3, JavaScript (optional)  
+CSS-based realtime form validation system.  
+[🔗 GitHub](https://github.com/jayeshmepani/validation-w-o-js) | [🌐 Live Demo](https://validation-w-o-js.vercel.app/)
+
+### 📱 Mobile App Projects
+
+**📱 Hindu Scriptures (Android)** — Java (WebView)  
+Android version of the Hindu Scriptures web app.
+
+**🍳 Recipe App** — Flutter  
+Recipe browsing app with search, filter, and user-friendly UI.  
+[🔗 GitHub](https://github.com/jayeshmepani/Recipe-App)
 </div>
 
 <br>
