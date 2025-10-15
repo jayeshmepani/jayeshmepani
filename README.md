@@ -313,11 +313,10 @@
 
 ## 🚀 Featured Projects
 
-<<<<<<< HEAD
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v3.7: The Enterprise Edition - Full Module Support & AI-First Engine](https://github.com/jayeshmepani/laravel-gemini-translator/releases/tag/3.7) in [jayeshmepani/laravel-gemini-translator](https://github.com/jayeshmepani/laravel-gemini-translator)
 <!--END_SECTION:activity-->
-=======
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -352,7 +351,6 @@
 </td>
 </tr>
 </table>
->>>>>>> 5b4fa75 (update)
 
 <details>
 <summary><b>🔍 View More Projects</b></summary>
