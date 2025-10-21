@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Focus-AI%20Media%20Enhancement-blueviolet?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Passion-Full%20Stack%20Dev-orange?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Gujarat%2C%20India-success?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" /> -->
 </p>
 
 <!-- Social Links -->
