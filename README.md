@@ -31,7 +31,11 @@
   <a href="https://instagram.com/jayumepani" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://github.com/sponsors/jayeshmepani" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-%40jayeshmepani-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
 </p>
+
 
 <!-- Profile Views & Followers -->
 <p align="center">
@@ -639,19 +643,39 @@
 <br>
 
 <!-- Support Section -->
+<!-- Support Section -->
 <div align="center">
 
-## 💰 Support My Work
+## 💰 Support My Open-Source Work
 
 <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.gif" width="100">
 
-<p>If you find my work valuable and want to support my open-source contributions, consider buying me a coffee! ☕</p>
+<p>
+I maintain multiple AI, web, and developer tools in my free time.  
+If you or your company use my projects, sponsoring helps me:
+</p>
+
+<ul align="left" style="display:inline-block; text-align:left; max-width:500px;">
+  <li>Ship new features and improvements faster</li>
+  <li>Spend focused time on bug fixing & maintenance</li>
+  <li>Keep existing projects stable and well-documented</li>
+</ul>
+
+<br/>
+
+<a href="https://github.com/sponsors/jayeshmepani" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%40jayeshmepani-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+</a>
+
+<br/><br/>
+<sub>Prefer a one-time tip?</sub><br/>
 
 <a href="https://www.buymeacoffee.com/JayeshMepani" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
 </a>
 
 </div>
+
 
 <!-- Footer -->
 <div align="center">
