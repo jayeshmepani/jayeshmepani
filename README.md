@@ -52,7 +52,7 @@
 <!-- About Me Section -->
 <div align="center">
   
-## 🚀 About Me
+<h2 id="" style="margin:0; padding:0;">🚀 About Me</h2>
   
 </div>
 
@@ -91,7 +91,7 @@
 <!-- Core Competencies Section -->
 <div align="center">
 
-## 🎯 Core Competencies
+<h2 id="" style="margin:0; padding:0;">🎯 Core Competencies</h2>
 
 <table>
 <tr>
@@ -133,7 +133,7 @@
 <!-- Tech Stack Section -->
 <div align="center">
 
-## 💻 Tech Stack & Tools
+<h2 id="" style="margin:0; padding:0;">💻 Tech Stack & Tools</h2>
 
 <table>
   <tr>
@@ -261,13 +261,13 @@
 <!-- Featured Projects Section -->
 <div align="center">
 
-## 🚀 Projects Portfolio
+<h2 id="" style="margin:0; padding:0;">🚀 Projects Portfolio</h2>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
 </div>
 
-### 🧠 AI / Data-Driven Projects
+<h3 id="" style="margin:0; padding:0;">🧠 AI / Data-Driven Projects</h3>
 
 <table>
 <tr>
@@ -394,7 +394,7 @@
 
 ---
 
-### 🌐 Web Development Projects
+<h3 id="" style="margin:0; padding:0;">🌐 Web Development Projects</h3>
 
 <table>
 <tr>
@@ -502,7 +502,7 @@
 
 ---
 
-### 📱 Mobile App Development
+<h3 id="" style="margin:0; padding:0;">📱 Mobile App Development</h3>
 
 <table>
 <tr>
@@ -553,7 +553,7 @@
 <!-- GitHub Analytics Section -->
 <div align="center">
 
-## 📊 GitHub Analytics
+<h2 id="" style="margin:0; padding:0;">📊 GitHub Analytics</h2>
 
 <!-- Stats Dashboard -->
 <p align="center">
@@ -575,7 +575,7 @@
 </p>
 
 <!-- Top Contributors -->
-## 🤝 Top Contributed Repositories
+<h2 id="" style="margin:0; padding:0;">🤝 Top Contributed Repositories</h2>
 
 <img src="https://github-contributor-stats.vercel.app/api?username=jayeshmepani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" />
 
@@ -586,7 +586,7 @@
 <!-- Philosophy Section -->
 <div align="center">
 
-## 💭 Philosophy & Vision
+<h2 id="" style="margin:0; padding:0;">💭 Philosophy & Vision</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -646,7 +646,7 @@
 <!-- Support Section -->
 <div align="center">
 
-## 💰 Support My Open-Source Work
+<h2 id="" style="margin:0; padding:0;">💰 Support My Open-Source Work</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.gif" width="100">
 
