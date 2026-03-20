@@ -16,13 +16,13 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/jayesh-patel-1111111j" target="_blank">
+  <a href="https://linkedin.com/in/jayeshmepani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/jayeshmepani" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://jayeshpatel-portfolio.netlify.app/" target="_blank">
+  <a href="https://jayeshmepani.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:jayeshmepani777@gmail.com">
@@ -409,7 +409,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   </p>
   <p>
-    <a href="https://jayeshpatel-portfolio.netlify.app/" target="_blank">
+    <a href="https://jayeshmepani.site/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
     </a>
     <a href="https://github.com/jayeshmepani/Portfolio" target="_blank">
